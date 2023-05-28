@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculation</string>
+    <string name="txtWeight">Enter your Weight (Kgs)</string>
+    <string name="txtHeightFt">Enter your Height (feets)</string>
+    <string name="txtHeightIn">Enter your Height (In)</string>
+    <string name="copyright">\u00a9 Vivek Chaudhary</string>
+</resources>
